@@ -1,10 +1,10 @@
 @font-face {
     font-family: vazir;
-    src: url(/assest/webFonts/Vazir.woff),
-        url(/assest/webFonts/Vazir-Bold.woff),
-        url(/assest/webFonts/Vazir-Light.woff),
-        url(/assest/webFonts/Vazir-Medium.woff),
-        url(/assest/webFonts/Vazir-Thin.woff);
+    src: url(assest/webFonts/Vazir.woff),
+        url(assest/webFonts/Vazir-Bold.woff),
+        url(assest/webFonts/Vazir-Light.woff),
+        url(assest/webFonts/Vazir-Medium.woff),
+        url(assest/webFonts/Vazir-Thin.woff);
 }
 
 * {
